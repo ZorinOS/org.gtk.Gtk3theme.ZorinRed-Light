@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <id>org.gtk.Gtk3theme.ZorinRed-Light</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>ZorinRed-Light</name>
+  <summary>ZorinRed-Light</summary>
+  <description>
+    <p>The light desktop theme with red highlights for Zorin OS</p>
+  </description>
+  <url type="homepage">https://github.com/zorinos/zorin-desktop-themes</url>
+</component>
